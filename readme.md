@@ -103,10 +103,13 @@ Membre| Responsabilité
 AHOLOU Imma, ADJATI Kaylhia, HOUETO Brian, LAWANI Marck, PEDRO Bilal| Analyse structure HTML
 
 AHOLOU Imma, ADJATI Kaylhia, HOUETO Brian, LAWANI Marck, PEDRO Bilal| Analyse CSS
+
 AHOLOU Imma, ADJATI Kaylhia, HOUETO Brian, LAWANI Marck, PEDRO Bilal| Problèmes identifiés et Proposition d'amélioration
 
 AHOLOU Imma, ADJATI Kaylhia, HOUETO Brian, LAWANI Marck, PEDRO Bilal| Rapport
+
 AHOLOU Imma, HOUETO Brian, PEDRO Bilal| README
+
 AHOLOU Imma| GitHub
 
 
