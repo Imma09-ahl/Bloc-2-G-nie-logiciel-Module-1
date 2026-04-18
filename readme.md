@@ -100,13 +100,14 @@ Répartition du travail
 
 Membre| Responsabilité
 
-Membre 1| Analyse structure HTML
+AHOLOU Imma, ADJATI Kaylhia, HOUETO Brian, LAWANI Marck, PEDRO Bilal| Analyse structure HTML
 
-Membre 2| Analyse CSS
+AHOLOU Imma, ADJATI Kaylhia, HOUETO Brian, LAWANI Marck, PEDRO Bilal| Analyse CSS
+AHOLOU Imma, ADJATI Kaylhia, HOUETO Brian, LAWANI Marck, PEDRO Bilal| Problèmes identifiés et Proposition d'amélioration
 
-Membre 3| Analyse JavaScript / logique
-
-Membre 4| Rapport / README / GitHub
+AHOLOU Imma, ADJATI Kaylhia, HOUETO Brian, LAWANI Marck, PEDRO Bilal| Rapport
+AHOLOU Imma, HOUETO Brian, PEDRO Bilal| README
+AHOLOU Imma| GitHub
 
 
 Utilisation du projet
@@ -122,3 +123,5 @@ Utilisation du projet
 
 Conclusion
 Ce projet nous a permis de comprendre qu’en développement logiciel, il ne suffit pas de savoir coder. Il faut aussi savoir lire, analyser, expliquer et améliorer du code existant. Cette compétence est essentielle dans le monde professionnel.
+
+
