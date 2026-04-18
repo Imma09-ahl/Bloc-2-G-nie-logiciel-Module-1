@@ -3,7 +3,7 @@ Projet Bloc 2 - Module 1
 
 Membres du groupe
 
-	AHOLOU Immaculée 
+	AHOLOU Imma
 	ADJATI Kaylhia
 	HOUETO Brian
 	LAWANI Marck
